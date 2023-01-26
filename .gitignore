@@ -1,0 +1,12 @@
+*
+!*/
+!/Data/**/*.json
+!/Model/**/*.h5
+!/Code/**/*.py
+!/Code/**/requirements.txt
+!/Analysis/**/*.py
+!/Analysis/**/requirements.txt
+!/.gitattributes
+!/.gitignore
+!LICENSE
+!README.md
